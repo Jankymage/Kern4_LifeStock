@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{25287d05-d2e0-4941-8912-486e61c463c1}">
+        <property name="name">
+            <value>distance_water</value>
+        </property>
+        <relationship name="folder">
+            <destination>{eb7e3639-1bcd-42c5-bc09-4176ebdd9db0}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{3e2deaca-ecb6-4026-92a7-d521a2d89605}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{3e2deaca-ecb6-4026-92a7-d521a2d89605}">
+        <property name="maximum">
+            <value>20</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{faa24771-2ffb-4d64-84e7-a420f1e025bb}">
+        <property name="assetPath">
+            <value>SFX/Food Ready.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>7.5</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f3723410-1c6f-45c5-b295-d3585b3a66f2}</destination>
+        </relationship>
+    </object>
+</objects>

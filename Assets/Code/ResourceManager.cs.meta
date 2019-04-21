@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 554e40e17caedff4fa7cf6fe37a10286
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerText: {instanceID: 0}
+  - mineralText: {instanceID: 0}
+  - powerInfo: {instanceID: 0}
+  - mineralInfo: {instanceID: 0}
+  - errorMessage: {instanceID: 0}
+  - deadText: {fileID: 7210260013329215732, guid: b3018c55a6cfcc6408f6a995d4a13f49,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{dfc59cf8-175a-4de9-aa49-2141d38853e6}">
+        <property name="assetPath">
+            <value>VoiceOver/Voiceover slide 5.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>9</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f3723410-1c6f-45c5-b295-d3585b3a66f2}</destination>
+        </relationship>
+    </object>
+</objects>

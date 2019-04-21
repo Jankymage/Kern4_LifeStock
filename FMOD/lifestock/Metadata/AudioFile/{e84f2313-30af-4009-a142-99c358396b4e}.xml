@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{e84f2313-30af-4009-a142-99c358396b4e}">
+        <property name="assetPath">
+            <value>SFX/Powerplant Ambient.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f3723410-1c6f-45c5-b295-d3585b3a66f2}</destination>
+        </relationship>
+    </object>
+</objects>

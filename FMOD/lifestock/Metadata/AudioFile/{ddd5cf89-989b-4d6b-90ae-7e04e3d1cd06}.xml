@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ddd5cf89-989b-4d6b-90ae-7e04e3d1cd06}">
+        <property name="assetPath">
+            <value>Music/Main Theme/06Lead.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>248.72727083333334</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f3723410-1c6f-45c5-b295-d3585b3a66f2}</destination>
+        </relationship>
+    </object>
+</objects>

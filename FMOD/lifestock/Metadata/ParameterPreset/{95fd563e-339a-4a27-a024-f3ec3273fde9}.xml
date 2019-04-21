@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{95fd563e-339a-4a27-a024-f3ec3273fde9}">
+        <property name="name">
+            <value>Techside</value>
+        </property>
+        <relationship name="folder">
+            <destination>{eb7e3639-1bcd-42c5-bc09-4176ebdd9db0}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{e94ee152-cc0b-42a4-a8b1-6738ba11a98e}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{e94ee152-cc0b-42a4-a8b1-6738ba11a98e}">
+        <property name="maximum">
+            <value>100</value>
+        </property>
+        <property name="initialValue">
+            <value>100</value>
+        </property>
+    </object>
+</objects>
